@@ -1,0 +1,27 @@
+
+First name      : Jay
+Last name       : Mojidra
+Country code    : +91
+Mobile          : 6351715979
+Email           : jaymojidra@outlook.com
+Address         : Ahmedabad
+Label           : NA
+Relation        : myself
+
+First name      : SAGAR
+Last name       : PATEL
+Country code    : +91
+Mobile          : 1234567890
+Email           : NA
+Address         : NA
+Label           : NA
+Relation        : NA
+
+First name      : Sagar
+Last name       : Hamirani
+Country code    : +91
+Mobile          : 0987654321
+Email           : NA
+Address         : NA
+Label           : NA
+Relation        : NA
